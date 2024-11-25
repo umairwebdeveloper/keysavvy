@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	const texts = ["Cars & Birds", "Hemmings", "Offer UP", ""];
+	const texts = ["Cars & Birds", "Hemmings", "Offer UP", "Cars.com"];
 	let index = 0;
 
 	function animateText() {
